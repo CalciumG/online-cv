@@ -6,7 +6,7 @@ import { Github, Linkedin } from "react-bootstrap-icons";
 
 function App(props) {
   return (
-    <div class="text-gray-100 left-align text-5xl">
+    <div class="text-gray-100 pl-10 left-align text-5xl">
       <h1 class="bolder-text">Callum Gordon</h1>
       <h2 class="thinner-text pb-2 text-gray-400">Software Developer</h2>
       <div class="flex">
