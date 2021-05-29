@@ -20,7 +20,7 @@ function App(props) {
         </a>
         <a
           class="mr-4 icon"
-          href="https://www.linkedin.com/in/callum-gordon-3b258a143/"
+          href="https://www.linkedin.com/in/callum-j-gordon/"
           target="_blank"
           rel="noreferrer"
         >
@@ -29,9 +29,9 @@ function App(props) {
         <a
           class="text-sm border-2 p-2 hvr-sweep-to-right"
           download
-          href="Callum Gordon - CV.pdf"
+          href="CV - Callum Gordon.pdf"
         >
-          Download resume
+          Download CV
         </a>
       </div>
     </div>
